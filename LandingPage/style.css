@@ -1,0 +1,14 @@
+
+body {
+    background-color: #f3efe0;
+    height: 100vh;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-container > div {
+    width: 33%;
+}
