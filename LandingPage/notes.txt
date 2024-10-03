@@ -1,0 +1,6 @@
+color palette hex values:
+000000 black
+f3efe0 eggshell
+6f8695 slate gray
+f56f29 dark orange (web)
+a7754d chamoisee
