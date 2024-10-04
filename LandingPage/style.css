@@ -30,13 +30,25 @@ header {
 }
 
 #resume {
+    background-image: url(https://www.theforage.com/blog/wp-content/uploads/2022/09/Depositphotos_95377176_L-1024x684.jpg);
+    background-size: cover;
     background-color: #6f8695;
+    background-blend-mode: luminosity;
+    background-position: center;
 }
 
 #photography {
+    background-image: url(https://i0.wp.com/www.splento.com/blog/wp-content/uploads/2022/11/Photography-Portfolio.png?ssl=1);
+    background-position: left;
     background-color: #f56f29;
+    background-blend-mode: luminosity;
+    background-position: center;
 }
 
 #projects {
+    background-image: url(https://wallpapers.com/images/hd/doodles-on-project-management-xwvsyosv7rb5my5r.jpg);
+    background-size: cover;
     background-color: #a7754d;
+    background-blend-mode: luminosity;
+    background-position: center;
 }
