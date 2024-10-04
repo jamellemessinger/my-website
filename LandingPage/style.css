@@ -1,21 +1,42 @@
+* {
+    box-sizing: border-box;
+}
 
 body {
+    font-family: 'Times New Roman', Times, serif;
     background-color: #f3efe0;
-    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+    height: auto;
+}
+
+header {
+    text-align: center;
 }
 
 .flex-container {
     display: flex;
-    flex-direction: row;
-    height: 100%;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 .flex-container > div {
+    width: 30%;
+    height: 700px;
+    border-radius: 100px;
+
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 33%;
-    height: 100%;
 }
 
+#resume {
+    background-color: #6f8695;
+}
+
+#photography {
+    background-color: #f56f29;
+}
+
+#projects {
+    background-color: #a7754d;
+}
