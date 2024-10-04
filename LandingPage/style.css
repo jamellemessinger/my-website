@@ -17,11 +17,13 @@ header {
     justify-content: space-around;
 }
 
-.flex-container > div {
+.flex-container > a {
+    color: black;
+    text-decoration: none;
     width: 30%;
     height: 700px;
     border-radius: 100px;
-
+    
     display: flex;
     align-items: center;
     justify-content: center;
