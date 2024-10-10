@@ -1,59 +1,59 @@
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: 'Times New Roman', Times, serif;
-    background-color: #f3efe0;
-    margin: 0;
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f3efe0;
+  margin: 0;
 }
 
 header {
-    text-align: center;
-    font-size: 1.5em;
-    margin-bottom: 2em;
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: 2em;
 }
 
 .flex-container {
-    display: flex;
-    justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
 
 .flex-container > a {
-    color: black;
-    text-decoration: none;
-    width: 30%;
-    height: 700px;
-    border-radius: 100px;
-    border: #6f8695 solid 1px;
-    background-size: cover;
-    background-blend-mode: luminosity;
-    background-position: center;
-    
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  color: black;
+  text-decoration: none;
+  width: 30%;
+  height: 700px;
+  border-radius: 100px;
+  border: #6f8695 solid 1px;
+  background-size: cover;
+  background-blend-mode: luminosity;
+  background-position: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 #nav-text {
-    font-size: 3em;
-    background-color: #f3efe0;
-    padding: 0.25em;
-    border-radius: 25px;
-    border: #6f8695 solid 1px;
+  font-size: 3em;
+  background-color: #f3efe0;
+  padding: 0.25em;
+  border-radius: 25px;
+  border: #6f8695 solid 1px;
 }
 
 #resume {
-    background-image: url(https://www.theforage.com/blog/wp-content/uploads/2022/09/Depositphotos_95377176_L-1024x684.jpg);
-    background-color: #6f8695;
+  background-image: url(https://www.theforage.com/blog/wp-content/uploads/2022/09/Depositphotos_95377176_L-1024x684.jpg);
+  background-color: #6f8695;
 }
 
 #photography {
-    background-image: url(https://i0.wp.com/www.splento.com/blog/wp-content/uploads/2022/11/Photography-Portfolio.png?ssl=1);
-    background-color: #f56f29;
+  background-image: url(https://i0.wp.com/www.splento.com/blog/wp-content/uploads/2022/11/Photography-Portfolio.png?ssl=1);
+  background-color: #f56f29;
 }
 
 #projects {
-    background-image: url(https://wallpapers.com/images/hd/doodles-on-project-management-xwvsyosv7rb5my5r.jpg);
-    background-color: #a7754d;
+  background-image: url(https://wallpapers.com/images/hd/doodles-on-project-management-xwvsyosv7rb5my5r.jpg);
+  background-color: #a7754d;
 }
